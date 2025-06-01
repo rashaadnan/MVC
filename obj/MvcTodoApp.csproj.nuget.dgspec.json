@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\MvcTodoApp_SV\\MvcTodoApp.csproj": {}
+    "E:\\MVC2\\MvcTodoApp_SV\\MvcTodoApp.csproj": {}
   },
   "projects": {
-    "E:\\MvcTodoApp_SV\\MvcTodoApp.csproj": {
+    "E:\\MVC2\\MvcTodoApp_SV\\MvcTodoApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\MvcTodoApp_SV\\MvcTodoApp.csproj",
+        "projectUniqueName": "E:\\MVC2\\MvcTodoApp_SV\\MvcTodoApp.csproj",
         "projectName": "MvcTodoApp",
-        "projectPath": "E:\\MvcTodoApp_SV\\MvcTodoApp.csproj",
+        "projectPath": "E:\\MVC2\\MvcTodoApp_SV\\MvcTodoApp.csproj",
         "packagesPath": "C:\\Users\\TECHNO\\.nuget\\packages\\",
-        "outputPath": "E:\\MvcTodoApp_SV\\obj\\",
+        "outputPath": "E:\\MVC2\\MvcTodoApp_SV\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\TECHNO\\AppData\\Roaming\\NuGet\\NuGet.Config"
